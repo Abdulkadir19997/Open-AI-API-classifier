@@ -1,5 +1,5 @@
 # gpt-classifier
-Using GPT as a classifier and testing it on the [tweeteval](https://github.com/cardiffnlp/tweeteval) benchmark dataset.
+Using GPT as a classifier and testing it on the [tweeteval](https://github.com/cardiffnlp/tweeteval) benchmark dataset, by trying zero shot and few shots prompt engineering to achieve the best possible results.
 
 ## Results
 We compare the results from GPT to the SOTA performance on the test sets indicated by the 
